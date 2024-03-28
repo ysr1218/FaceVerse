@@ -1,3 +1,4 @@
-C:/Users/ADORA/Documents/FaceVerse/Github/FaceVerse/data/faceverse_v1/faceverse_base_v1.npy filter=lfs diff=lfs merge=lfs -text
-C:/Users/ADORA/Documents/FaceVerse/Github/FaceVerse/data/faceverse_v1/faceverse_ckpt_detail_v1_124000.pt filter=lfs diff=lfs merge=lfs -text
 C:/Users/ADORA/Documents/FaceVerse/Github/FaceVerse/data/faceverse_v1/faceverse_ckpt_exp_v1_140000.pt filter=lfs diff=lfs merge=lfs -text
+C:/Users/ADORA/Documents/FaceVerse/Github/FaceVerse/data/faceverse_v1/faceverse_ckpt_detail_v1_124000.pt filter=lfs diff=lfs merge=lfs -text
+C:/Users/ADORA/Documents/FaceVerse/Github/FaceVerse/data/faceverse_v1/faceverse_base_v1.npy filter=lfs diff=lfs merge=lfs -text
+
